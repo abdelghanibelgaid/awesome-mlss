@@ -3,12 +3,12 @@
   id: bmva-cvss26
   full_name: "29th BMVA Computer Vision Summer School (CVSS) 2026"
   link: "https://cvss.bmva.org/"
-  deadline: "2025-06-15 23:59:59"
+  deadline: "2026-06-29 23:59:59"
   timezone: "Europe/London"
   place: "Durham, England, UK"
-  date: "July 13 - July 17, 2025"
-  start: 2025-07-13
-  end: 2025-07-17
+  date: "July 13 - July 17, 2026"
+  start: 2026-07-13
+  end: 2026-07-17
   sub: ['CV', 'ML', 'GenAI']
   note: "Early bird registration until 31st May 2026"
   twitter: "https://twitter.com/BmvaCvss"
