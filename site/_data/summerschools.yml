@@ -1,39 +1,287 @@
-- title: "Summer School on Multimodal Foundation Models and Generative AI"
-  year: 2025
-  id: aiss25
-  full_name: "Summer School on Multimodal Foundation Models and Generative AI"
-  link: "https://ai-summer-school.inpt.ac.ma/"
-  deadline: "2025-07-13"
-  timezone: "Africa/Casablanca"
-  place: "Rabat, Morocco"
-  date: "September 8 - September 12, 2025"
-  start: 2025-09-08
-  end: 2025-09-12
-  sub: ['ML', 'NLP', 'CV', 'GenerativeAI', 'Multimodal']
-  note: "Applications open June 23, 2025; acceptance notifications sent July 25, 2025."
-  email: "team@morocco.ai"
-  description: |
-    The AI Summer School is an immersive five-day program jointly organized by
-    MoroccoAI, Institut National Des Postes et Télécommunications (INPT), IMT Nord
-    Europe, and Soft Centre, supported by ACM SIGMM. 
-
-    The 2025 edition focuses on Multimodal Foundation Models and Generative AI, 
-    providing participants with lectures from world-renowned experts, hands-on labs,
-    project mentorship, and networking opportunities. It is designed for Master’s and
-    PhD students, postdocs, researchers, and industry professionals with intermediate
-    knowledge of machine learning and Python programming.
-
-    Key features:
-    - 20+ expert sessions and 15+ hands-on labs
-    - Networking with 50+ participants and AI leaders
-    - Coverage of cutting-edge topics: generative AI, LLMs, multimodal foundation models
-    - Visits to Morocco’s technology ecosystem (e.g., Casablanca Technopark)
-    - Full access to lectures, meals, and accommodations included in registration
-  image: "https://morocco.ai/wp-content/uploads/2020/03/MoroccoAI_Logo.png"
+- title: "BMVA Computer Vision Summer School"
+  year: 2026
+  id: bmva-cvss26
+  full_name: "29th BMVA Computer Vision Summer School (CVSS) 2026"
+  link: "https://cvss.bmva.org/"
+  deadline: "2026-06-29 23:59:59"
+  timezone: "Europe/London"
+  place: "Durham, England, UK"
+  date: "July 13 - July 17, 2026"
+  start: 2026-07-13
+  end: 2026-07-17
+  sub: ['CV', 'ML', 'GenAI']
+  note: "Early bird registration until 31st May 2026"
+  twitter: "https://twitter.com/BmvaCvss"
+  email: "bmva-cvss@durham.ac.uk"
+  description: "The 29th BMVA Computer Vision Summer School (CVSS) will take place between 13th - 17th July 2026 at Durham University, Durham, England, UK. The event will consist of an intensive week of lectures and lab sessions covering a wide range of topics in Computer Vision. Lecturers are researchers in the field from some of the most active research groups in the UK and abroad."
+  image: "https://cvss.bmva.org/assets/images/layout/cvss_logo_2026.png"
   location:
-    latitude: 34.020882
-    longitude: -6.841650
-  series: "MoroccoAI Summer School"
+    latitude: 57.1648
+    longitude: -2.1015
+  series: "BMVA Computer Vision Summer School"
+  
+- title: "Oxford Machine Learning Summer School - MLx HEALTH & BIO"
+  year: 2026
+  id: oxford_mlxbio26
+  full_name: "Oxford Machine Learning Summer School - MLx HEALTH & BIO"
+  link: "https://www.oxfordml.school/"
+  deadline: "2026-05-22 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, United Kingdom"
+  date: "July 10 - July 13, 2026"
+  start: 2026-07-10
+  end: 2026-07-13
+  sub: ["ML", "Health", "Bio"]
+  note: null
+  email: null
+  description: "Oxford Machine Learning School (OxML) offers specialised tracks in advanced machine learning, including an MLx Health & Bio module focusing on applications in healthcare and biology."  # from official program info :contentReference[oaicite:3]{index=3}
+  image: null
+  location:
+    latitude: 51.7520
+    longitude: -1.2577
+  series: "Oxford Machine Learning Summer School"
+
+- title: "OxML 2026 – MLx Cases"
+  year: 2026
+  id: oxml_mlx_cases26
+  full_name: "Oxford Machine Learning School 2026 — MLx Cases"
+  link: "https://www.oxfordml.school/"
+  deadline: "2026-04-07 23:59:59"
+  timezone: "Europe/London"
+  place: "Online"
+  date: "7 - 16 May, 2026"
+  start: 2026-05-07
+  end: 2026-05-16
+  sub: ["ML", "RL", "GenAI"]
+  note: "Six‑day online programme focused on practical machine learning applications including RL, diffusion models, and building AI systems."  # from official announcement :contentReference[oaicite:5]{index=5}
+  email: null
+  description: "MLx Cases is a track of the OxML 2026 summer school emphasizing hands‑on ML engineering, reinforcement learning, diffusion models, and the construction of AI agents."  # based on module description :contentReference[oaicite:6]{index=6}
+  image: null
+  location:
+    latitude: 51.7520
+    longitude: -1.2577
+  series: "Oxford Machine Learning School 2026"
+
+- title: "OxML 2026 – MLx Representation Learning & Generative AI"
+  year: 2026
+  id: oxml_mlx_rep_gen_ai26
+  full_name: "Oxford Machine Learning School 2026 — MLx Representation Learning & Generative AI"
+  link: "https://www.oxfordml.school/"
+  deadline: "2026-05-22 23:59:59"
+  timezone: "Europe/London"
+  place: "Oxford, United Kingdom & Online"
+  date: "July 15 - July 18, 2026"
+  start: 2026-07-15
+  end: 2026-07-18
+  sub: ["ML", "GenAI"]
+  note: "Focuses on representation learning and advanced generative AI techniques with a special submodule on AI for mathematics."  # module topics based on official announcements :contentReference[oaicite:9]{index=9}
+  email: null
+  description: "MLx Representation Learning & Generative AI is a track within OxML 2026 dedicated to cutting‑edge topics such as advanced representation learning and generative artificial intelligence."  # based on official announcements :contentReference[oaicite:10]{index=10}
+  image: null
+  location:
+    latitude: 51.7520
+    longitude: -1.2577
+  series: "Oxford Machine Learning School 2026"
+
+- title: "Machine Learning Crash Course at MALGA"
+  year: 2026
+  id: mlcrash_malga26
+  full_name: "Machine Learning Crash Course at MALGA 2026"
+  link: "https://malga.unige.it/education/schools/mlcc2026/"
+  deadline: "2026-03-01 23:59:59"
+  timezone: "Europe/Rome"
+  place: "Genoa, Italy"
+  date: "June 15 - June 19, 2026"
+  start: 2026-06-15
+  end: 2026-06-19
+  sub: ["ML"]
+  note: "Introduction to the fundamental concepts and algorithms of Machine Learning with lab sessions at the Machine Learning Genoa Center (MaLGa)."  # from official course page :contentReference[oaicite:0]{index=0}
+  email: null
+  description: "The Machine Learning Crash Course (MLCC) 2026 provides an introduction to the core methods in machine learning, suitable for undergraduate/graduate students and professionals."  # official description :contentReference[oaicite:1]{index=1}
+  image: null
+  location:
+    latitude: 44.4071
+    longitude: 8.9347
+  series: "ML Crash Courses"
+
+- title: "Robotics, Perception and Learning (RPL) Summer School"
+  year: 2026
+  id: rpl26
+  full_name: "Robotics, Perception and Learning (RPL) Summer School 2026"
+  link: "https://summer-school.rpl.eecs.kth.se/"
+  deadline: "2026-02-08 23:59:59"
+  timezone: "Europe/Stockholm"
+  place: "Stockholm, Sweden"
+  date: "June 21 - June 26, 2026"
+  start: 2026-06-21
+  end: 2026-06-26
+  sub: ["RO", "ML"]
+  note: "The event includes keynote speeches, panel discussions, brainstorming sessions, and covers accommodation and meals from June 21 to June 26."  # from official page :contentReference[oaicite:4]{index=4}
+  email: "rpl-events@eecs.kth.se"  # official contact from RPL page :contentReference[oaicite:5]{index=5}
+  description: "The RPL Summer School 2026 is a six-day intensive programme focusing on robotics, perception, and learning, intended for doctoral and postdoctoral researchers."  # from official description :contentReference[oaicite:6]{index=6}
+  image: null
+  location:
+    latitude: 59.3293    # Stockholm coordinates
+    longitude: 18.0686
+  series: "Robotics, Perception and Learning Summer School"
+
+- title: "UK Robotics Summer School"
+  year: 2026
+  id: uk_robotics_ss26
+  full_name: "UK Robotics Summer School 2026"
+  link: "https://ukrss.site.hw.ac.uk/"
+  deadline: "2026-05-15 23:59:59"
+  timezone: "Europe/London"
+  place: "Edinburgh, United Kingdom"
+  date: "June 22 - June 26, 2026"
+  start: 2026-06-22
+  end: 2026-06-26
+  sub: ["RO"]
+  note: "A 5‑day summer school focusing on robotics and related AI topics held at the National Robotarium, Heriot‑Watt University."  # official event description :contentReference[oaicite:2]{index=2}
+  email: null
+  description: "UK Robotics Summer School offers lectures, tutorials, and industry presentations on robotics, bioinspired systems, generative AI for robotics, and AI validation."  # official description :contentReference[oaicite:3]{index=3}
+  image: null
+  location:
+    latitude: 55.9533
+    longitude: -3.1883
+  series: "UK Robotics Summer School"
+
+- title: "Generative Modeling Summer School (GeMSS)"
+  year: 2026
+  id: gemss26
+  full_name: "Generative Modeling Summer School (GeMSS) 2026"
+  link: "https://gemss.ai/"
+  deadline: "2026-01-23 23:59:59"
+  timezone: "Europe/London"
+  place: "London, United Kingdom"
+  date: "March 23 - March 27, 2026"
+  start: 2026-03-23
+  end: 2026-03-27
+  sub: ["GenAI", "ML"]
+  note: "Application deadline is January 23, 2026 (23:59 CET)."  # official deadline :contentReference[oaicite:7]{index=7}
+  email: "gemss@sciencesconf.org"  # official contact from affiliated page :contentReference[oaicite:8]{index=8}
+  description: "GeMSS is a spring/summer school dedicated to deep generative models including latent variable models, diffusion models, and autoregressive models, attracting PhD students and researchers."  # official description :contentReference[oaicite:9]{index=9}
+  image: null
+  location:
+    latitude: 51.5072
+    longitude: -0.1276
+  series: "Generative Modeling Summer School"
+
+- title: "NeuMat Winter School"
+  year: 2026
+  id: neuromorphiccomputingwinterschool26
+  full_name: "Neuromorphic Computing Winter School"
+  link: "https://lnkd.in/ddjdRVi3"
+  deadline: "2025-10-31 23:59:00"
+  timezone: "Europe/London"
+  place: "Cambridge, United Kingdom"
+  date: "January 13 - January 15, 2026"
+  start: 2026-01-13
+  end: 2026-01-15
+  sub: ['ML']
+  note: "Free to attend. Two-night stay at Churchill College (Jan 13–14) with all meals included. Register your interest by the deadline via the link. Only a few spaces remain."
+  description: "An intensive winter school focused on neuromorphic computing. Expressions of interest are invited for a three-day program at Churchill College, Cambridge, covering emerging hardware and computation paradigms inspired by neural systems."
+  series: "NeuMat Winter School"
+
+- title: "Northern Lights Deep Learning Winter School"
+  year: 2026
+  id: nldl26
+  full_name: "Northern Lights Deep Learning Winter School 2026"
+  link: "https://www.nldl.org/program/winter-school"
+  deadline: "2025-11-15 23:59:59"
+  timezone: "Europe/Oslo"
+  place: "Tromsø, Norway"
+  date: "January 5 - January 9, 2026"
+  start: 2026-01-05
+  end: 2026-01-09
+  sub: ['Theory', 'NLP', 'RAI']
+  note: "Registration fees: 1750 NOK for students, 2500 NOK for academics. Limited number of places available."
+  twitter: "https://x.com/naamii_nepal"
+  email: "puneet.sharma@uit.no"
+  description: "The Northern Lights Deep Learning Winter School is organized by The Arctic University of Norway in Tromsø. This winter school provides an intensive deep learning program in the unique Arctic environment of northern Norway, offering participants the opportunity to learn cutting-edge machine learning techniques while experiencing the northern lights phenomenon. The school is held during the polar night period, creating a distinctive learning atmosphere in one of the world's northernmost universities."
+  image: "https://lh3.googleusercontent.com/sitesv/AICyYdZqbDvLrpA5l7B5mWsYqBTM_UXZpQhoO7OA_BTHiqMPtkBx-_qcGEApKxuiEORJIGR4Y0bW0_goJMO_V0PtpJIOJzSnQohxP_7ZZ6giRskld3U6KSU_D1PYN0GillbUi0Mml9tUPiIgLXtCaLoRvPQO8Ci7AuSkxKGg0dyLYYtjAY9fKdNgdsJx=w16383"
+  location:
+    latitude: 69.6492
+    longitude: 18.9553
+
+- title: "Advanced Summer School on Responsible AutoML"
+  year: 2025
+  id: asraml25
+  full_name: "Advanced Summer School on Responsible AutoML 2025"
+  link: "https://automlsummerschool.cin.ufpe.br/"
+  deadline: "2025-11-11 23:59:00"
+  timezone: "America/Sao_Paulo"
+  place: "Recife, Brazil"
+  date: "November 11 - November 12, 2025"
+  start: 2025-11-11
+  end: 2025-11-12
+  sub: ['Theory', 'ML', 'EML']
+  location:
+    latitude: -8.055172279619814
+    longitude: -34.95136218650733
+  email: "ligia@cin.ufpe.br"
+
+- title: "Annual Nepal AI School"
+  year: 2025
+  id: anais25
+  full_name: "6th Annual Nepal AI School (ANAIS) 2025"
+  link: "https://anais.naamii.org.np/"
+  deadline: "2025-10-16 23:59:59"
+  timezone: "Asia/Kathmandu"
+  place: "Kathmandu, Nepal"
+  date: "December 29, 2025 - January 8, 2026"
+  start: 2025-12-29
+  end: 2026-01-08
+  sub: ['ML']
+  note: "Registration fees: $100-$240 USD (depends on applicant category). Application deadline: October 16, 2025."
+  twitter: null
+  email: "anais@naamii.org.np"
+  description: "The 6th Annual Nepal AI School (ANAIS) is organized by NAAMII (Nepal Applied Mathematics and Informatics Institute for Research) in Kathmandu, Nepal. This intensive AI school provides participants with comprehensive training in artificial intelligence and machine learning concepts and applications. The program spans across the New Year period, offering an extended learning experience in the unique cultural setting of Nepal's capital city."
+  image: "https://lh3.googleusercontent.com/sitesv/AICyYdaFTjoorHso7GpUtZqFbdL1Ao_um69TBktk_b9kTpuq8WJhZNj8HKyDvoqFw4rgyoPfEwRMJOZAbFMLcjj9Xuiie710vbA7jtDfDlDdGxb3V6HMHYUs-rp79f1YlMWAbX2jaHyopcAyDv3qzCxYdoQ0WHLS13Qr30Euk16xJ4L5gCbWeoKY5HEbWsY=w16383"
+  location:
+    latitude: 27.7172
+    longitude: 85.3240
+  series: "Annual Nepal AI School (ANAIS)"
+
+- title: "Latin American School of Artificial Intelligence (LASAI)"
+  year: 2025
+  id: lasai25
+  full_name: "Latin American School of Artificial Intelligence (LASAI) 2025"
+  link: "https://simbig.org/lasai/2025/"
+  deadline: "2025-09-30 23:59:59"
+  timezone: "America/Lima"
+  place: "Lima, Peru"
+  date: "October 27 - October 31, 2025"
+  start: 2025-10-27
+  end: 2025-10-31
+  sub: ['ML']
+  note: "Application deadline: September 30, 2025."
+  twitter: "https://twitter.com/SIMBigPeru"
+  email: "lasai2025@simbig.org"
+  description: "The Latin American LATAM School of Artificial Intelligence is hosted by Universidad Nacional Mayor de San Marcos (UNMSM) in Lima, Peru. This school aims to provide comprehensive training in artificial intelligence and machine learning for participants from Latin America and beyond. The program offers an intensive learning experience in one of South America's oldest and most prestigious universities, fostering AI education and research collaboration across the Latin American region."
+  location:
+    latitude: -12.0532
+    longitude: -77.0853
+
+- title: "Winter School on Causality and Explainable AI"
+  year: 2025
+  id: causalxai25
+  full_name: "Winter School on Causality and Explainable AI 2025"
+  link: "https://causality-xai-school.fr/"
+  deadline: "2025-10-01 23:59:59"
+  timezone: "Europe/Paris"
+  place: "Paris, France"
+  date: "October 20 - October 24, 2025"
+  start: 2025-10-20
+  end: 2025-10-24
+  sub: ['RAI', 'Theory']
+  note: "Application deadline: October 1, 2025."
+  twitter: null
+  email: null
+  description: "The Winter School on Causality and Explainable AI is organized by a team from the Sorbonne Center for Artificial Intelligence, ELLIS - European Laboratory for Learning and Intelligent Systems, and other partner institutions. This specialized program focuses on the intersection of causal inference and explainable artificial intelligence, providing participants with theoretical foundations and practical applications in these critical areas of AI research. The school emphasizes understanding causal relationships in data and developing interpretable AI systems."
+  location:
+    latitude: 48.8566
+    longitude: 2.3522
 
 - title: "MLSS Melbourne"
   year: 2026
@@ -436,6 +684,44 @@
     latitude: 41.0075881131308
     longitude: 28.9652750001439
   series: Reasoning Web (RW) Summer School
+
+- title: "Summer School on Multimodal Foundation Models and Generative AI"
+  year: 2025
+  id: aiss25
+  full_name: "Summer School on Multimodal Foundation Models and Generative AI"
+  link: "https://ai-summer-school.inpt.ac.ma/"
+  deadline: "2025-07-13"
+  timezone: "Africa/Casablanca"
+  place: "Rabat, Morocco"
+  date: "September 8 - September 12, 2025"
+  start: 2025-09-08
+  end: 2025-09-12
+  sub: ['ML', 'NLP', 'CV', 'GenerativeAI', 'Multimodal']
+  note: "Applications open June 23, 2025; acceptance notifications sent July 25, 2025."
+  email: "team@morocco.ai"
+  description: 
+    "The AI Summer School is an immersive five-day program jointly organized by
+    MoroccoAI, Institut National Des Postes et Télécommunications (INPT), IMT Nord
+    Europe, and Soft Centre, supported by ACM SIGMM. 
+
+    The 2025 edition focuses on Multimodal Foundation Models and Generative AI, 
+    providing participants with lectures from world-renowned experts, hands-on labs,
+    project mentorship, and networking opportunities. It is designed for Master’s and
+    PhD students, postdocs, researchers, and industry professionals with intermediate
+    knowledge of machine learning and Python programming.
+
+    Key features:
+    - 20+ expert sessions and 15+ hands-on labs
+    - Networking with 50+ participants and AI leaders
+    - Coverage of cutting-edge topics: generative AI, LLMs, multimodal foundation models
+    - Visits to Morocco’s technology ecosystem (e.g., Casablanca Technopark)
+    - Full access to lectures, meals, and accommodations included in registration"
+  image: "https://morocco.ai/wp-content/uploads/2020/03/MoroccoAI_Logo.png"
+  location:
+    latitude: 34.020882
+    longitude: -6.841650
+  series: "MoroccoAI Summer School"
+
 
 - title: "AI and Games Summer School"
   year: 2025
