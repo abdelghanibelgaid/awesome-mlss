@@ -61,27 +61,6 @@
     longitude: -1.2577
   series: "Oxford Machine Learning School 2026"
 
-- title: "European Summer School on Artificial Intelligence"
-  year: 2026
-  id: essai26
-  full_name: "European Summer School on Artificial Intelligence (ESSAI 2026)"
-  link: "https://essai2026.eu/"
-  deadline: null
-  timezone: "UTC"
-  place: "Vienna, Austria"
-  date: "July 6 - July 10, 2026"
-  start: 2026-07-06
-  end: 2026-07-10
-  sub: ["Artificial Intelligence", "Machine Learning"]
-  note: "Lectures and tutorials will take place in the Gußhausstraße building, with networking events including a reception at the Vienna City Hall."  # from official program info :contentReference[oaicite:0]{index=0}
-  email: "essai2026-support@list.tuwien.ac.at"  # official contact from sponsorship/challenges page :contentReference[oaicite:1]{index=1}
-  description: "ESSAI 2026 is the 4th European Summer School on Artificial Intelligence, offering a broad range of AI instruction across subdisciplines and hosted under the auspices of the European Association for Artificial Intelligence in Vienna."  # from official description :contentReference[oaicite:2]{index=2}
-  image: null
-  location:
-    latitude: 48.2082     # Vienna coordinates
-    longitude: 16.3738
-  series: "European Summer School on Artificial Intelligence"
-
 - title: "Machine Learning Crash Course at MALGA"
   year: 2026
   id: mlcrash_malga26
